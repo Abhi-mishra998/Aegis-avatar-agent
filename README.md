@@ -171,10 +171,6 @@ LOG_LEVEL=info
 
 ---
 
-## 📊 Status
-
-Pre-revenue prototype. Both tracks run end-to-end locally. Next milestones tracked in [TODO.md](./TODO.md).
-
 ---
 
 ## 💼 Author
@@ -185,8 +181,4 @@ Pre-revenue prototype. Both tracks run end-to-end locally. Next milestones track
 - 📚 Docs: [docs.aegisagent.in](https://docs.aegisagent.in)
 - 📝 Engineering writeup: [*"I built a runtime firewall for AI agents"*](https://projectsphere.hashnode.dev/i-built-a-runtime-firewall-for-ai-agents)
 
----
 
-## 📄 License
-
-Private — not for redistribution.
